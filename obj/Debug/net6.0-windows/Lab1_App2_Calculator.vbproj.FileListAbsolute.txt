@@ -1,0 +1,16 @@
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\bin\Debug\net6.0-windows\Lab1_App2_Calculator.exe
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\bin\Debug\net6.0-windows\Lab1_App2_Calculator.deps.json
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\bin\Debug\net6.0-windows\Lab1_App2_Calculator.runtimeconfig.json
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\bin\Debug\net6.0-windows\Lab1_App2_Calculator.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\bin\Debug\net6.0-windows\Lab1_App2_Calculator.pdb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.vbproj.GenerateResource.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.AssemblyInfo.vb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\refint\Lab1_App2_Calculator.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.pdb
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.genruntimeconfig.cache
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\ref\Lab1_App2_Calculator.dll
+C:\Users\louis\source\repos\Visual Programming 2\Labs\Lab1\Lab1_App2_Calculator\obj\Debug\net6.0-windows\Lab1_App2_Calculator.Calculator.resources
